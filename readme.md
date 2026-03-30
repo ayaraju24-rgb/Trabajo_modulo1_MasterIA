@@ -42,12 +42,12 @@ Durante el análisis se identificaron algunos valores nulos, los cuales fueron c
 
 1. Descargar o clonar el repositorio:
    ```bash
-   git clone <URL_DEL_REPOSITORIO>
+   git clone <https://github.com/ayaraju24-rgb/Trabajo_modulo1_MasterIA.git>
    ```
 
 2. Ingresar a la carpeta:
    ```bash
-   cd nombre-del-proyecto
+   cd Trabajo_modulo1
    ```
 
 3. Instalar dependencias:
