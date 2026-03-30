@@ -1,12 +1,12 @@
-# 📊 Taller Módulo 1 — Salud Mundial
+# TALLER MÓDULO 1 — SALUD MUNDIAL
 
 **Autor:** Norman Aya  
-**Programa:** IA & Data Science — DevSeniorCode  
+**Programa:** Máster en IA & Data Science — DevSeniorCode  
 **Fecha de entrega:** Marzo 30 de 2026  
 
 ---
 
-## 🧾 Descripción
+## DESCRIPCIÓN
 
 Este proyecto tiene como objetivo analizar indicadores de salud a nivel mundial utilizando Python y la librería Pandas.  
 
@@ -14,7 +14,7 @@ A lo largo del desarrollo se trabajó en la exploración, limpieza y análisis d
 
 ---
 
-## 🌍 Dataset
+## DATASET
 
 El archivo `salud_mundial.csv` contiene información de **159 países** con **13 variables** relacionadas con la salud:
 
@@ -34,11 +34,11 @@ El archivo `salud_mundial.csv` contiene información de **159 países** con **13
 | `camas_hospital_por_1000` | Camas por cada 1000 hab. |
 | `vacunacion_pct` | % cobertura de vacunación |
 
-Durante el análisis se identificaron algunos valores nulos, los cuales fueron considerados en el proceso.
+Durante el análisis se identificaron algunos valores nulos, los cuales fueron considerados y cambiados por el valor promedio durante el proceso.
 
 ---
 
-## ⚙️ Cómo ejecutar el proyecto
+## CÓMO EJECUTAR EL PROYECTO
 
 1. Descargar o clonar el repositorio:
    ```bash
@@ -62,23 +62,23 @@ Durante el análisis se identificaron algunos valores nulos, los cuales fueron c
 
 ---
 
-## 📊 Hallazgos y conclusiones
+## CONCLUSIONES
 
-- **Hallazgo 1:** Europa presenta la mayor esperanza de vida promedio, mientras que África tiene los valores más bajos, evidenciando diferencias importantes entre regiones.
+**1.** Europa presenta la mayor esperanza de vida promedio, mientras que África tiene los valores más bajos, evidenciando diferencias importantes entre regiones.
 
-- **Hallazgo 2:** Se observa una relación entre el porcentaje de vacunación y la esperanza de vida, donde regiones con mayor cobertura presentan mejores resultados.
+**2.** Se observa una relación entre el porcentaje de vacunación y la esperanza de vida, donde regiones con mayor cobertura presentan mejores resultados.
 
-- **Hallazgo 3:** Variables como el nivel de ingresos y el acceso a servicios de salud influyen directamente en los indicadores analizados.
+**3.** Variables como el nivel de ingresos y el acceso a servicios de salud influyen directamente en los indicadores analizados.
 
 ---
 
-## 📈 Visualización
+## VISUALIZACIÓN
 
 Se realizó una gráfica de barras para representar la esperanza de vida promedio por región, lo que permite comparar fácilmente las diferencias entre ellas.
 
 ---
 
-## 🛠️ Tecnologías utilizadas
+## TECNOLOGÍAS UTILIZADAS
 
 - Python 🐍  
 - Pandas 📊  
@@ -88,8 +88,8 @@ Se realizó una gráfica de barras para representar la esperanza de vida promedi
 
 ---
 
-## 💬 Comentario final
+## COMENTARIO FINAL
 
-Este trabajo permitió reforzar el uso de herramientas básicas de análisis de datos en Python.  
+* Este trabajo permitió reforzar el uso de herramientas básicas de análisis de datos en Python.  
 
-Aunque al inicio hubo algunas dificultades, especialmente en el manejo de funciones y agrupaciones, el proceso ayudó a comprender mejor cómo trabajar con datos reales y obtener conclusiones a partir de ellos.
+* Aunque al inicio se me presentaron algunas dificultades, especialmente en el manejo de funciones y agrupaciones, el proceso me ayudó a comprender mejor cómo trabajar con datos reales y obtener conclusiones a partir de ellos.
